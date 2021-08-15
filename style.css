@@ -1,0 +1,43 @@
+body{
+    padding-top:5rem;
+    text-align: center;
+    background-color: #03243A;
+    color: aliceblue;
+}
+
+h1{
+    font-size:3rem;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding:0rem 0 2rem 0;
+    background-color:#04304E;
+}
+
+.label{
+    padding:1rem;
+    font-size: 1.3rem;
+}
+
+input{
+    padding:0.2rem;
+    font-size:1rem;
+}
+
+#btn{
+    margin-top: 30px;
+    padding: 0.2rem;
+    width: 10vw;
+    font-size:1rem;
+    border-radius: 0.2rem;
+    border-style: none;
+}
+
+#output{
+    margin-top:20px;
+    font-size: 1.4rem;
+}
